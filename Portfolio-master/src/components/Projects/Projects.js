@@ -30,7 +30,7 @@ function Projects() {
                in this project user will we able to create there account and after login they will add their notes ,update their notes and delete the notes.
               if the user is new then they have to created their account first .only login user seen their own notes.all the notes will we saved on the server
               side"
-              ghLink=""
+              ghLink="https://github.com/aadrshdubey1/inotebook"
               
             />
           </Col>
